@@ -1,3 +1,13 @@
+This is a FORK of https://github.com/vim-scripts/ReplaceWithSameIndentRegister
+
+Changes:
+
+- Add doc/tags to .gitignore
+
+Changes are licensed under the same terms as the original
+
+# Original README
+
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=5046
 
 DESCRIPTION
